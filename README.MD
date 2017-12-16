@@ -6,6 +6,7 @@
 <a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/david/dev/binaryify/NeteaseCloudMusicApi.svg" alt="devDependencies" ></a>
 <a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/david/binaryify/NeteaseCloudMusicApi.svg" alt="devDependencies" ></a>
 <a href="https://codeclimate.com/github/Binaryify/NeteaseCloudMusicApi"><img src="https://codeclimate.com/github/Binaryify/NeteaseCloudMusicApi/badges/gpa.svg" /></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fhaoyufan%2FNeteaseCloudMusicApi?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhaoyufan%2FNeteaseCloudMusicApi.svg?type=shield"/></a>
 </p>  
 
 ## 灵感来自
@@ -192,3 +193,6 @@ $ npm test
 
 ## License
 [The MIT License (MIT)](https://github.com/Binaryify/NeteaseCloudMusicApi/blob/master/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhaoyufan%2FNeteaseCloudMusicApi.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhaoyufan%2FNeteaseCloudMusicApi?ref=badge_large)
